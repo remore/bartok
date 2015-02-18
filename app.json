@@ -2,7 +2,7 @@
   "name": "bartok",
   "description": "A lightweight load testing suite of tools, including JMeter, siege, httperf",
   "repository": "https://github.com/remore/bartok",
-  "logo": "https://raw.githubusercontent.com/remore/bartok/master/logo.svg",
+  "logo": "https://raw.githubusercontent.com/remore/bartok/master/logo.png",
   "keywords": ["test", "load", "performance", "stress"],
   "env": {
     "BUILDPACK_URL": "https://github.com/remore/heroku-buildpack-load-test"
