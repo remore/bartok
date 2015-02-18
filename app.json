@@ -5,6 +5,6 @@
   "logo": "https://raw.githubusercontent.com/remore/bartok/master/logo.png",
   "keywords": ["test", "load", "performance", "stress"],
   "env": {
-    "BUILDPACK_URL": "https://github.com/remore/heroku-buildpack-load-test"
+    "BUILDPACK_URL": "https://github.com/remore/heroku-buildpack-load-test.git"
   }
 }
