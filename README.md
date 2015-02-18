@@ -1,8 +1,17 @@
-# A lightweight load testing suite of tools, including JMeter, siege, httperf
+# Free and robust load testing from your Heroku dyno
 
 ## Usage
 
-[this article](http://shiru.untergrund.net/articles/programming_nes_games_in_c.htm)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/remore/bartok)
+
+Click the button above and run commands below:
+
+```
+$ heroku run bash --app <APP_NAME_YOUVE_CREATED>
+$ jmeter --version
+$ siege --version
+$ httperf --version
+```
 
 ## Copyright
 
